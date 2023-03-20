@@ -6,8 +6,8 @@ React Native, Expo, NodeJS, ExpressJS, TypeScript
 Recursos - Disponível em iOS e Android
 
 ## 🛠️ Abrir e rodar o projeto
-### mobile
-*expo start*
+### mobile 
+*npx expo start*
 
 ### backend
 *yarn dev*
