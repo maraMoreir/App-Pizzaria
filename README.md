@@ -7,7 +7,7 @@ Recursos - Disponível em iOS e Android
 ### mobile 
 *npx expo start*
 
-### backend
+### server
 *yarn dev*
 
 
